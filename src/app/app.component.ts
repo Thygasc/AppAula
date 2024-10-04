@@ -9,9 +9,9 @@ export class AppComponent {
     { title: 'Navegacao', url:'/navegacao', icon: 'code'},
     { title: 'Botões', url: '/botao', icon: 'construct'},
     { title: 'Inbox', url: '/folder/inbox', icon: 'mail' },
-    { title: 'Outbox', url: '/folder/outbox', icon: 'paper-plane' },
-    { title: 'Favorites', url: '/folder/favorites', icon: 'heart' },
-    { title: 'Archived', url: '/folder/archived', icon: 'archive' },
+    { title: 'Pagina 1', url: '/pagina1', icon: 'paper-plane' },
+    { title: 'Pagina 2', url: '/pagina2', icon: 'heart' },
+    { title: 'Pagina 3', url: '/pagina3', icon: 'archive' },
     { title: 'Trash', url: '/folder/trash', icon: 'trash' },
     { title: 'Spam', url: '/folder/spam', icon: 'warning' },
   ];
